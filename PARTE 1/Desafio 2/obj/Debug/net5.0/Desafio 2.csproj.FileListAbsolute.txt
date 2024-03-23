@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\bin\Debug\net5.0\Desafio 2.exe
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\bin\Debug\net5.0\Desafio 2.deps.json
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\bin\Debug\net5.0\Desafio 2.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\bin\Debug\net5.0\Desafio 2.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\bin\Debug\net5.0\Desafio 2.dll
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\bin\Debug\net5.0\Desafio 2.pdb
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\Desafio 2.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\Desafio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\Desafio 2.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\Desafio 2.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\Desafio 2.dll
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\refint\Desafio 2.dll
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\Desafio 2.pdb
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\Desafio 2.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\DESAFIOS SEMANA 7\Desafio 2\obj\Debug\net5.0\ref\Desafio 2.dll

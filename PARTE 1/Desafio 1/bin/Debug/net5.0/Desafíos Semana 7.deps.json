@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Desafíos Semana 7/1.0.0": {
+        "runtime": {
+          "Desafíos Semana 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafíos Semana 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
